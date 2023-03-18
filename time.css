@@ -1,0 +1,26 @@
+* {
+    font-family: cursive;
+    overflow-x: hidden;
+} 
+.heading {
+    text-align: center;
+    padding: 2% 0%;
+}
+.dates {
+    display: flex;
+}
+.date {
+    display: block;
+    text-align: center;
+    width: 20%;
+    font-weight: 500;
+}
+.time {
+    font-size: 48px;
+}
+
+.image {
+    width: 99%;
+    position: absolute;
+    height: 80%;
+}
